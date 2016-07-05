@@ -5,12 +5,5 @@
     "command": "gulp",
     "isShellCommand": true,
     "args": ["--no-color"],
-    "showOutput": "always",
-    "tasks": [
-        {
-            "taskName": "sass",
-            "isBuildCommand": true,
-            "showOutput": "silent"
-        }
-    ]
+    "showOutput": "always"
 }
